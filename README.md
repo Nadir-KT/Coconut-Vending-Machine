@@ -4,8 +4,6 @@ Program for Delta DVP-SS2+Series PLC (Programmable logic controller)
 
 http://www.deltaww.com/Products/CategoryListT1.aspx?CID=060301&PID=253&hl=en-US&Name=DVP-SS2+Series
 
-Software Required :-
-
 PLC programming software : WPLSoft V2.49
 
 Software Download Center
