@@ -1,6 +1,6 @@
 # Coconut Vending Machine
 
-Program for Delta DVP-SS2+Series PLC (Programmable logic controllers)
+Program for Delta DVP-SS2+Series PLC (Programmable Logic Controllers)
 
 https://www.deltaww.com/en-US/products/PLC-Programmable-Logic-Controllers/253/
 
