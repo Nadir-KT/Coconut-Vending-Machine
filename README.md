@@ -1,4 +1,4 @@
-# Coconut-Vending-Machine
+# Coconut Vending Machine
 
 Program for Delta DVP-SS2+Series PLC (Programmable logic controller)
 
